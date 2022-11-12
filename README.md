@@ -1,16 +1,13 @@
-### Hi there 👋
+一个强大又易用的图像处理SDK
 
-<!--
-**ImageVision/ImageVision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+本SDK拥有丰富的图像处理基础函数以及高级算子，稳定可靠，性能强大，试用期长，性价比高，是辅助您快速开发图像处理应用的不二之选。
 
-Here are some ideas to get you started:
+因为仓库对文件大小有限制，所以我将静态库文件做成了压缩包，使用的时候需要解压出来得到lib文件。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+由于本仓库对文件大小有限制，因此仓库里的文件并不完全和适当，强烈建议您下载以下链接里的文件压缩包：
+
+https://pan.baidu.com/s/1IIexyaVHptpPbwhhPdHeJg?pwd=1234 提取码: 1234
+
+https://share.weiyun.com/uJT7Dxab
+
+联系QQ群：924013995
