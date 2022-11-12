@@ -1,0 +1,61 @@
+一套指的是一份机器信息，它由CPUID信息组成，每套软件仅对应一份机器信息。若一次性购买3套~10套则每套按原价的80%计算，
+若一次性购买10套以上则每套按原价的50%计算。
+
+新购买：
+
+一年期：
+Visual Studio 2017(v141) x86 Release：1000元人民币/套
+Visual Studio 2017(v141) x64 Release：1000元人民币/套
+Visual Studio 2019(v142) x86 Release：1000元人民币/套
+Visual Studio 2019(v142) x64 Release：1000元人民币/套
+Visual Studio 2022(v143) x86 Release：1000元人民币/套
+Visual Studio 2022(v143) x64 Release：1000元人民币/套
+
+
+三年期：
+Visual Studio 2017(v141) x86 Release：2000元人民币/套
+Visual Studio 2017(v141) x64 Release：2000元人民币/套
+Visual Studio 2019(v142) x86 Release：2000元人民币/套
+Visual Studio 2019(v142) x64 Release：2000元人民币/套
+Visual Studio 2022(v143) x86 Release：2000元人民币/套
+Visual Studio 2022(v143) x64 Release：2000元人民币/套
+
+
+十年期：
+Visual Studio 2017(v141) x86 Release：7000元人民币/套
+Visual Studio 2017(v141) x64 Release：7000元人民币/套
+Visual Studio 2019(v142) x86 Release：7000元人民币/套
+Visual Studio 2019(v142) x64 Release：7000元人民币/套
+Visual Studio 2022(v143) x86 Release：7000元人民币/套
+Visual Studio 2022(v143) x64 Release：7000元人民币/套
+
+
+
+
+从上一个版本中升级：
+
+一年期：
+Visual Studio 2017(v141) x86 Release：300元人民币/套
+Visual Studio 2017(v141) x64 Release：300元人民币/套
+Visual Studio 2019(v142) x86 Release：300元人民币/套
+Visual Studio 2019(v142) x64 Release：300元人民币/套
+Visual Studio 2022(v143) x86 Release：300元人民币/套
+Visual Studio 2022(v143) x64 Release：300元人民币/套
+
+
+三年期：
+Visual Studio 2017(v141) x86 Release：700元人民币/套
+Visual Studio 2017(v141) x64 Release：700元人民币/套
+Visual Studio 2019(v142) x86 Release：700元人民币/套
+Visual Studio 2019(v142) x64 Release：700元人民币/套
+Visual Studio 2022(v143) x86 Release：700元人民币/套
+Visual Studio 2022(v143) x64 Release：700元人民币/套
+
+
+十年期：
+Visual Studio 2017(v141) x86 Release：1500元人民币/套
+Visual Studio 2017(v141) x64 Release：1500元人民币/套
+Visual Studio 2019(v142) x86 Release：1500元人民币/套
+Visual Studio 2019(v142) x64 Release：1500元人民币/套
+Visual Studio 2022(v143) x86 Release：1500元人民币/套
+Visual Studio 2022(v143) x64 Release：1500元人民币/套
