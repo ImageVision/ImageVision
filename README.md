@@ -10,4 +10,8 @@ https://pan.baidu.com/s/1IIexyaVHptpPbwhhPdHeJg?pwd=1234 提取码: 1234
 
 https://share.weiyun.com/uJT7Dxab
 
-联系QQ群：924013995
+联系以下QQ群：
+
+924013995
+
+587839006
