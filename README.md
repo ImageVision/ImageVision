@@ -2,9 +2,9 @@
 
 因为仓库对文件大小有限制，所以本仓库并没有静态库文件且文件并不完全和适当，烦请移步以下链接下载完整版压缩包；本SDK的所有更新都通过以下链接发布，请密切关注以下链接的变化情况。
 
-https://pan.baidu.com/s/1Q5mS8z9VFHXM0xI9XfcOAw?pwd=1234 提取码: 1234
+https://pan.baidu.com/s/1us8Z1EzoRyxKPZldtxR0xg?pwd=1234 提取码: 1234
 
-https://share.weiyun.com/68vZKmrx
+https://share.weiyun.com/tZToqAMu
 
 联系以下QQ群：
 
