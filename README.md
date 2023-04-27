@@ -13,3 +13,19 @@ https://share.weiyun.com/8ituzcX5
 924013995
 
 587839006
+
+ImageVision SDK 7.0 officially released!
+
+This SDK has a wealth of image processing basic functions and advanced operators, including but not limited to powerful image reading and saving functions, 2D code encoding and decoding, verification code generation, image cropping, image encryption, image compression, edge detection, morphological processing, template matching, feature detection and matching, image steganography, image special effects filters, image calibration and correction, shape search, text and graphic rendering, corner detection Hough transform, image quality evaluation, character recognition, circle and line detection, image denoising, image enhancement, image restoration, image segmentation, color space conversion, and image format conversion. This SDK is stable and reliable, with strong performance, long trial period, and high cost-effectiveness. It is the best choice to assist you in developing image processing applications quickly.
+
+Due to limitations on file size in the warehouse, there are no static library files in this warehouse and the files are not complete and appropriate. Please take the following link to download the complete compressed package; All updates to this SDK are published through the following links. Please closely monitor the changes in the following links.
+
+https://pan.baidu.com/s/1y3melhbrsBnw8GaQB_MFIA?pwd=1234 Extracted code: 1234
+
+https://share.weiyun.com/8ituzcX5
+
+Contact the following QQ groups:
+
+924013995
+
+587839006
