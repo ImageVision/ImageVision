@@ -4,7 +4,7 @@ ImageVision-SDK 8正式发布！
 
 因为仓库对文件大小有限制，所以本仓库并没有静态库文件且文件并不完全和适当，烦请移步以下链接下载完整版压缩包；本SDK的所有更新都通过以下链接发布，请密切关注以下链接的变化情况。
 
-[https://pan.baidu.com/s/1y3melhbrsBnw8GaQB_MFIA?pwd=1234 提取码: 1234
+https://pan.baidu.com/s/1y3melhbrsBnw8GaQB_MFIA?pwd=1234 提取码: 1234
 
 https://share.weiyun.com/RVEWPP1f
 
@@ -30,7 +30,7 @@ This SDK has rich basic functions of image processing and advanced operators, in
 
 Because the warehouse has restrictions on file size, there is no static library file in the warehouse and the file is not complete and appropriate. Please move to the following link to download the full version of the compressed package; All updates to this SDK are released through the following links. Please pay close attention to the changes of the following links.
 
-[https://pan.baidu.com/s/1y3melhbrsBnw8GaQB_MFIA?pwd=1234 提取码: 1234
+https://pan.baidu.com/s/1y3melhbrsBnw8GaQB_MFIA?pwd=1234 提取码: 1234
 
 https://share.weiyun.com/mPF4n77y
 
