@@ -80,12 +80,6 @@ https://url95.ctfile.com/f/44915895-846056217-694820?p=9057 (抽出コード: 90
 
 
 
-由于本人才疏学浅，所以难免要引用其他作者的一些作品代码，鉴于引用的其他作者数量众多的原因，故本人在此对被引用的各位作者作一个统一的特别鸣谢！如果您是被引用的作者之一且对此有异议，可随时
+由于本人才疏学浅，所以难免要引用其他作者的一些作品代码，鉴于引用的其他作者数量众多的原因，故本人在此对被引用的各位作者作一个统一的特别鸣谢！如果您是被引用的作者之一且对此有异议，可随时联系我删除相关的代码，由此对您产生的困扰我感到非常抱歉！
 
-联系我删除相关的代码，由此对您产生的困扰我感到非常抱歉！
-
-Due to my lack of knowledge, it is inevitable for me to cite some work codes from other authors. Due to the large number of other authors cited, I would like to 
-
-express my unified special thanks to all the cited authors! If you are one of the cited authors and have any objections, please feel free to contact me at any time to 
-
-delete the relevant code. I am very sorry for any inconvenience caused to you!
+Due to my lack of knowledge, it is inevitable for me to cite some work codes from other authors. Due to the large number of other authors cited, I would like to express my unified special thanks to all the cited authors! If you are one of the cited authors and have any objections, please feel free to contact me at any time to delete the relevant code. I am very sorry for any inconvenience caused to you!
