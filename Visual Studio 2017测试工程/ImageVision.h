@@ -3,23 +3,21 @@
 #include <list>
 #include<vector>
 #include <windows.h>
-#include"ezsift.h" 
 using namespace std;
-using namespace ezsift;
 typedef struct 
 {
-	unsigned char red, green, blue;		//ÏñËØµÄÑÕÉ«ÓÉRGB£¨ºì/ÂÌ/À¶£©±íÊ¾
+	unsigned char red, green, blue;		//åƒç´ çš„é¢œè‰²ç”±RGBï¼ˆçº¢/ç»¿/è“ï¼‰è¡¨ç¤º
 } PPMPixel;
 typedef struct 
 {
-	unsigned int width, height;			// Í¼ÏñµÄ¿í¶ÈºÍ¸ß¶È£¨ÒÔÏñËØÎªµ¥Î»£©
-	PPMPixel *data;						// ¹¹³ÉÍ¼ÏñµÄÏñËØ
+	unsigned int width, height;			// å›¾åƒçš„å®½åº¦å’Œé«˜åº¦ï¼ˆä»¥åƒç´ ä¸ºå•ä½ï¼‰
+	PPMPixel *data;						// æ„æˆå›¾åƒçš„åƒç´ 
 } PPMImage;
 typedef struct
 {
 	int width;
 	int height;
-	int channels; //Í¼ÏñÍ¨µÀÊı 
+	int channels; //å›¾åƒé€šé“æ•° 
 	unsigned char* Data;
 }Image1;
 typedef struct _PGMData 
@@ -42,10 +40,10 @@ struct hough_param_circle {
 
 typedef struct tagBGRA
 {
-	unsigned char blue;          // ¸ÃÑÕÉ«µÄÀ¶É«·ÖÁ¿  (Öµ·¶Î§Îª0-255)
-	unsigned char green;         // ¸ÃÑÕÉ«µÄÂÌÉ«·ÖÁ¿  (Öµ·¶Î§Îª0-255)
-	unsigned char red;           // ¸ÃÑÕÉ«µÄºìÉ«·ÖÁ¿  (Öµ·¶Î§Îª0-255)
-	unsigned char transparency;  // Í¸Ã÷¶È£¬ÔÚbmpÖĞÊÇ±£ÁôÖµ£¬ÎŞÊµ¼ÊĞ§¹û
+	unsigned char blue;          // è¯¥é¢œè‰²çš„è“è‰²åˆ†é‡  (å€¼èŒƒå›´ä¸º0-255)
+	unsigned char green;         // è¯¥é¢œè‰²çš„ç»¿è‰²åˆ†é‡  (å€¼èŒƒå›´ä¸º0-255)
+	unsigned char red;           // è¯¥é¢œè‰²çš„çº¢è‰²åˆ†é‡  (å€¼èŒƒå›´ä¸º0-255)
+	unsigned char transparency;  // é€æ˜åº¦ï¼Œåœ¨bmpä¸­æ˜¯ä¿ç•™å€¼ï¼Œæ— å®é™…æ•ˆæœ
 }BGRA,*PBGRA;
 
 typedef struct tagIMAGE
@@ -63,10 +61,10 @@ typedef struct tagIGIMAGE
 }IGIMAGE,*PIGIMAGE;
 
 typedef struct {
-    unsigned char B; //24Î»ºÍ32Î»BMPÍ¼ÏñµÄÀ¶É«Í¨µÀ·ÖÁ¿ 
-    unsigned char G; //24Î»ºÍ32Î»BMPÍ¼ÏñµÄÂÌÉ«Í¨µÀ·ÖÁ¿ 
-    unsigned char R; //24Î»ºÍ32Î»BMPÍ¼ÏñµÄºìÉ«Í¨µÀ·ÖÁ¿ 
-    unsigned char A; //½öÏŞ32Î»BMPÍ¼ÏñµÄAlphaÍ¨µÀ
+    unsigned char B; //24ä½å’Œ32ä½BMPå›¾åƒçš„è“è‰²é€šé“åˆ†é‡ 
+    unsigned char G; //24ä½å’Œ32ä½BMPå›¾åƒçš„ç»¿è‰²é€šé“åˆ†é‡ 
+    unsigned char R; //24ä½å’Œ32ä½BMPå›¾åƒçš„çº¢è‰²é€šé“åˆ†é‡ 
+    unsigned char A; //ä»…é™32ä½BMPå›¾åƒçš„Alphaé€šé“
 }BMPMat;
 
 enum DebayerAlgorithm {
