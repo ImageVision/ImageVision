@@ -31,7 +31,7 @@ Contact the following QQ groups:
 
 924013995
 
-587839006
+423812702
 
 ImageVision-SDK 11が正式リリース！
 
@@ -47,7 +47,7 @@ https://share.weiyun.com/r2IaJjQ4
 
 924013995
 
-587839006
+423812702
 
 
 
