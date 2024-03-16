@@ -1,30 +1,20 @@
 为支持乌克兰的正义事业与重建工作，在2023年7月7日至2028年7月7日期间本软件对乌克兰公民免费。
 
-ImageVision-SDK 11正式发布！
+ImageVision-SDK正式发布！
 
-本SDK拥有丰富的图像处理基础函数以及高级算子，包括但不限于强大的图像读取与保存功能、二维码编解码、验证码生成、图像裁剪、图像加密、图像压缩、边缘检测、形态学处理、模板匹配、特征检测与匹配、图像隐写、图像特效滤镜、图像标定与矫正、形状搜寻、文本与图形绘制、角点检测、霍夫变换、图像质量评价、字符识别、圆与直线检测、图像去噪、图像增强、图像复原、图像分割、颜色空间转换、图像格式转换，本SDK稳定可靠，性能强大，试用期长，性价比高，是辅助您快速开发图像处理应用的不二之选。
+本SDK提供二维码编解码函数、图像多焦点融合函数、图像隐写、AES加密、DES加密、字符识别分割、数字识别、图像分割、图像质量评价（梯度幅相似性偏差）。
 
 因为仓库对文件大小有限制，所以本仓库并没有静态库文件且文件并不完全和适当，烦请移步以下链接下载完整版压缩包；本SDK的所有更新都通过以下链接发布，请密切关注以下链接的变化情况。
 
-https://pan.baidu.com/s/1QfIYLgslp-yyzkEUHuAVDA?pwd=1234 提取码: 1234
+https://pan.baidu.com/s/1ZxSbSNAWZ3EM6Vnq60NraA?pwd=1234 提取码: 1234
 
-https://share.weiyun.com/bv2UDGgY
-
-https://wani.teracloud.jp/share/11f1a1be54de45a2
-
-https://caiyun.139.com/m/i?0H5CKX0FPq7Wq  提取码:8GRL
-
-https://www.mediafire.com/file/y9kolaxtas70mcc/ImageVision-SDK_11%2528%25E8%25BE%2589%25E5%2585%2589%2529.zip/file
-
-https://jmj.cc/s/zemp33
-
-https://cloud.189.cn/web/share?code=qaeY7n3QnIne（访问码：cs3h）
+https://share.weiyun.com/8Vk9qTQ2
 
 联系以下QQ群：
 
 924013995
 
-587839006
+423812702
 
 ImageVision SDK 11 officially released!
 
@@ -36,15 +26,6 @@ https://pan.baidu.com/s/1a6KYb6_UQ1IFY-D-gawqCA?pwd=1234 提取码: 1234
 
 https://share.weiyun.com/vaxgmDwd
 
-https://wani.teracloud.jp/share/11f1e3cdd4c057b5
-
-https://caiyun.139.com/m/i?0H5CJZ4MOSh24  提取码:NXoK
-
-https://www.mediafire.com/file/lefxwnt4ijwhyfp/ImageVision-SDK_11%2528RisingSun%2529.zip/file
-
-https://jmj.cc/s/va0y2h
-
-https://cloud.189.cn/web/share?code=mY7RZ3aA3mQz（访问码：3rqp）
 
 Contact the following QQ groups:
 
@@ -62,16 +43,6 @@ https://pan.baidu.com/s/167t-md4rh6r_3tswyQSA-Q?pwd=1234 提取码: 1234
 
 https://share.weiyun.com/r2IaJjQ4
 
-https://wani.teracloud.jp/share/11f12f856b98e429
-
-https://caiyun.139.com/m/i?0H5CJF5RPmmIl  提取码:shq5
-
-https://www.mediafire.com/file/w0dbp4unpqgpq3i/ImageVision-SDK_11%2528%25E6%2597%25AD%25E6%2597%25A5%2529.zip/file
-
-https://jmj.cc/s/ioox1m
-
-https://cloud.189.cn/web/share?code=zy26vuzUFzIj（访问码：b9fm）
-
 以下のQQ群に連絡する:
 
 924013995
@@ -82,6 +53,6 @@ https://cloud.189.cn/web/share?code=zy26vuzUFzIj（访问码：b9fm）
 
 
 
-由于本人才疏学浅，所以难免要引用其他作者的一些作品代码，鉴于引用的其他作者数量众多的原因，故本人在此对被引用的各位作者作一个统一的特别鸣谢！如果您是被引用的作者之一且对此有异议，可随时联系我删除相关的代码，由此对您产生的困扰我感到非常抱歉！
+由于本人才疏学浅，所以难免要引用其他作者的一些作品代码，鉴于引用的其他作者数量众多及联系困难的原因，故本人在此对被引用的各位作者作一个统一的特别鸣谢！如果您是被引用的作者之一且对此有异议，可随时联系我删除相关的代码，由此对您产生的困扰我感到非常抱歉！
 
 Due to my lack of knowledge, it is inevitable for me to cite some work codes from other authors. Due to the large number of other authors cited, I would like to express my unified special thanks to all the cited authors! If you are one of the cited authors and have any objections, please feel free to contact me at any time to delete the relevant code. I am very sorry for any inconvenience caused to you!
