@@ -16,9 +16,9 @@ https://share.weiyun.com/8Vk9qTQ2
 
 423812702
 
-ImageVision SDK 11 officially released!
+ImageVision SDK officially released!
 
-This SDK has rich basic functions of image processing and advanced operators, including but not limited to powerful image reading and saving functions, two-dimensional code encoding and decoding, verification code generation, image clipping, image encryption, image compression, edge detection, morphological processing, template matching, feature detection and matching, image steganography, image special effect filter, image calibration and correction, shape search, text and graphics rendering, corner detection Hough transform, image quality evaluation, character recognition, circle and line detection, image denoising, image enhancement, image restoration, image segmentation, color space conversion, image format conversion. This SDK is stable and reliable, with strong performance, long trial period, and high cost performance. It is the best choice to help you develop image processing applications quickly.
+This SDK provides QR code encoding and decoding functions, image multifocal fusion functions, image steganography, AES encryption, DES encryption, character recognition segmentation, digital recognition, image segmentation, and image quality evaluation (gradient amplitude similarity deviation).
 
 Because the warehouse has restrictions on file size, there is no static library file in the warehouse and the file is not complete and appropriate. Please move to the following link to download the full version of the compressed package; All updates to this SDK are released through the following links. Please pay close attention to the changes of the following links.
 
@@ -33,9 +33,9 @@ Contact the following QQ groups:
 
 423812702
 
-ImageVision-SDK 11が正式リリース！
+ImageVision-SDK が正式リリース！
 
-本SDKは豊富な画像処理基礎関数及び高級演算子を有し、それには強大な画像読取と保存機能、二次元コードコーデック、検証コード生成、画像切り抜き、画像暗号化、画像圧縮、エッジ検出、形態学処理、テンプレートマッチング、特徴検出とマッチング、画像暗黙書き、画像特効フィルタ、画像定格と矯正、形状探索、テキストと図形描画、角点検出、ホフ変換、画像品質評価、文字認識、円と直線検出、画像ノイズ除去、画像強化、画像復元、画像分割、色空間変換、画像フォーマット変換、本SDKは安定で信頼性があり、性能が強く、試用期間が長く、性価格比が高く、迅速な画像処理アプリケーションの開発を支援するための最良の選択肢です。
+本SDKは、二次元コードコーデック関数、画像多焦点融合関数、画像暗黙的書き込み、AES暗号化、DES暗号化、文字認識分割、デジタル認識、画像分割、画像品質評価（勾配振幅類似性偏差）を提供する。
 
 倉庫はファイルサイズに制限があるため、本倉庫には静的ライブラリファイルがなく、ファイルが完全で適切ではありません。次のリンクに移動して完全版圧縮パッケージをダウンロードしてください。本SDKのすべての更新は以下のリンクで公開されていますので、以下のリンクの変化に注目してください。
 
@@ -55,4 +55,4 @@ https://share.weiyun.com/r2IaJjQ4
 
 由于本人才疏学浅，所以难免要引用其他作者的一些作品代码，鉴于引用的其他作者数量众多及联系困难的原因，故本人在此对被引用的各位作者作一个统一的特别鸣谢！如果您是被引用的作者之一且对此有异议，可随时联系我删除相关的代码，由此对您产生的困扰我感到非常抱歉！
 
-Due to my lack of knowledge, it is inevitable for me to cite some work codes from other authors. Due to the large number of other authors cited, I would like to express my unified special thanks to all the cited authors! If you are one of the cited authors and have any objections, please feel free to contact me at any time to delete the relevant code. I am very sorry for any inconvenience caused to you!
+Due to my lack of knowledge, it is inevitable for me to cite some work codes from other authors. Due to the large number of other authors cited and the difficulty in contacting them, I would like to express my unified special thanks to all the cited authors! If you are one of the cited authors and have any objections, please feel free to contact me at any time to delete the relevant code. I am very sorry for any inconvenience caused to you!
