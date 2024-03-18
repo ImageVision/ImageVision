@@ -4,12 +4,6 @@ ImageVision-SDK正式发布！
 
 本SDK提供二维码编解码函数、图像多焦点融合函数、图像隐写、AES加密、DES加密、字符识别分割、数字识别、图像分割、图像质量评价（梯度幅相似性偏差）。
 
-因为仓库对文件大小有限制，所以本仓库并没有静态库文件且文件并不完全和适当，烦请移步以下链接下载完整版压缩包；本SDK的所有更新都通过以下链接发布，请密切关注以下链接的变化情况。
-
-https://pan.baidu.com/s/1ZxSbSNAWZ3EM6Vnq60NraA?pwd=1234 提取码: 1234
-
-https://share.weiyun.com/8Vk9qTQ2
-
 联系以下QQ群：
 
 924013995
@@ -20,13 +14,6 @@ ImageVision SDK officially released!
 
 This SDK provides QR code encoding and decoding functions, image multifocal fusion functions, image steganography, AES encryption, DES encryption, character recognition segmentation, digital recognition, image segmentation, and image quality evaluation (gradient amplitude similarity deviation).
 
-Because the warehouse has restrictions on file size, there is no static library file in the warehouse and the file is not complete and appropriate. Please move to the following link to download the full version of the compressed package; All updates to this SDK are released through the following links. Please pay close attention to the changes of the following links.
-
-https://pan.baidu.com/s/1a6KYb6_UQ1IFY-D-gawqCA?pwd=1234 提取码: 1234
-
-https://share.weiyun.com/vaxgmDwd
-
-
 Contact the following QQ groups:
 
 924013995
@@ -36,12 +23,6 @@ Contact the following QQ groups:
 ImageVision-SDK が正式リリース！
 
 本SDKは、二次元コードコーデック関数、画像多焦点融合関数、画像暗黙的書き込み、AES暗号化、DES暗号化、文字認識分割、デジタル認識、画像分割、画像品質評価（勾配振幅類似性偏差）を提供する。
-
-倉庫はファイルサイズに制限があるため、本倉庫には静的ライブラリファイルがなく、ファイルが完全で適切ではありません。次のリンクに移動して完全版圧縮パッケージをダウンロードしてください。本SDKのすべての更新は以下のリンクで公開されていますので、以下のリンクの変化に注目してください。
-
-https://pan.baidu.com/s/167t-md4rh6r_3tswyQSA-Q?pwd=1234 提取码: 1234
-
-https://share.weiyun.com/r2IaJjQ4
 
 以下のQQ群に連絡する:
 
