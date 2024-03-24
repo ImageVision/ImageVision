@@ -10,6 +10,8 @@ ImageVision-SDK正式发布！
 
 423812702
 
+本软件的二维码技术源于美国谷歌公司的ZXing项目：https://github.com/zxing/zxing
+
 ImageVision SDK officially released!
 
 This SDK provides QR code encoding and decoding functions, image multifocal fusion functions, image steganography, AES encryption, DES encryption, character recognition segmentation, digital recognition, image segmentation, and image quality evaluation (gradient amplitude similarity deviation).
@@ -19,6 +21,8 @@ Contact the following QQ groups:
 924013995
 
 423812702
+
+The QR code technology of this software originates from the ZXing project of Google in the United States：https://github.com/zxing/zxing
 
 ImageVision-SDK が正式リリース！
 
@@ -30,7 +34,7 @@ ImageVision-SDK が正式リリース！
 
 423812702
 
-
+本ソフトウェアのQRコード技術は、米Google社が開発したものです：https://github.com/zxing/zxing
 
 
 
