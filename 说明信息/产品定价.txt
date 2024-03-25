@@ -5,27 +5,27 @@
 
 
 一年期：
-Visual Studio 2017(v141) x86 Release：1克金/套
-Visual Studio 2017(v141) x64 Release：1克金/套
-Visual Studio 2019(v142) x86 Release：1克金/套
-Visual Studio 2019(v142) x64 Release：1克金/套
-Visual Studio 2022(v143) x86 Release：1克金/套
-Visual Studio 2022(v143) x64 Release：1克金/套
+Visual Studio 2017(v141) x86 Release：0.5克金/套
+Visual Studio 2017(v141) x64 Release：0.5克金/套
+Visual Studio 2019(v142) x86 Release：0.5克金/套
+Visual Studio 2019(v142) x64 Release：0.5克金/套
+Visual Studio 2022(v143) x86 Release：0.5克金/套
+Visual Studio 2022(v143) x64 Release：0.5克金/套
 
 
 三年期：
-Visual Studio 2017(v141) x86 Release：2.5克金/套
-Visual Studio 2017(v141) x64 Release：2.5克金/套
-Visual Studio 2019(v142) x86 Release：2.5克金/套
-Visual Studio 2019(v142) x64 Release：2.5克金/套
-Visual Studio 2022(v143) x86 Release：2.5克金/套
-Visual Studio 2022(v143) x64 Release：2.5克金/套
+Visual Studio 2017(v141) x86 Release：1.2克金/套
+Visual Studio 2017(v141) x64 Release：1.2克金/套
+Visual Studio 2019(v142) x86 Release：1.2克金/套
+Visual Studio 2019(v142) x64 Release：1.2克金/套
+Visual Studio 2022(v143) x86 Release：1.2克金/套
+Visual Studio 2022(v143) x64 Release：1.2克金/套
 
 
 十年期：
-Visual Studio 2017(v141) x86 Release：6克金/套
-Visual Studio 2017(v141) x64 Release：6克金/套
-Visual Studio 2019(v142) x86 Release：6克金/套
-Visual Studio 2019(v142) x64 Release：6克金/套
-Visual Studio 2022(v143) x86 Release：6克金/套
-Visual Studio 2022(v143) x64 Release：6克金/套
+Visual Studio 2017(v141) x86 Release：3.5克金/套
+Visual Studio 2017(v141) x64 Release：3.5克金/套
+Visual Studio 2019(v142) x86 Release：3.5克金/套
+Visual Studio 2019(v142) x64 Release：3.5克金/套
+Visual Studio 2022(v143) x86 Release：3.5克金/套
+Visual Studio 2022(v143) x64 Release：3.5克金/套
