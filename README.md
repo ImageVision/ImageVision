@@ -2,7 +2,7 @@
 
 ImageVision-SDK正式发布！
 
-本SDK提供二维码和条形码编解码函数、图像融合、图像隐写、AES加密、DES加密、字符识别分割、数字识别、图像分割、图像质量评价（梯度幅相似性偏差）。
+本SDK提供二维码和条形码编解码函数、图像融合、图像隐写、DES加密、字符识别分割、数字识别、图像分割。
 
 联系以下QQ群：
 
@@ -14,7 +14,7 @@ ImageVision-SDK正式发布！
 
 ImageVision SDK officially released!
 
-This SDK provides QR code encoding and decoding functions, image multifocal fusion functions, image steganography, AES encryption, DES encryption, character recognition segmentation, digital recognition, image segmentation, and image quality evaluation (gradient amplitude similarity deviation).
+This SDK provides QR code encoding and decoding functions, image multifocal fusion functions, image steganography, DES encryption, character recognition segmentation, digital recognition, image segmentation.
 
 Contact the following QQ groups:
 
@@ -26,7 +26,7 @@ The QR code technology of this software originates from the ZXing project of Goo
 
 ImageVision-SDK が正式リリース！
 
-本SDKは、二次元コードコーデック関数、画像多焦点融合関数、画像暗黙的書き込み、AES暗号化、DES暗号化、文字認識分割、デジタル認識、画像分割、画像品質評価（勾配振幅類似性偏差）を提供する。
+本SDKは、二次元コードコーデック関数、画像多焦点融合関数、画像暗黙的書き込み、DES暗号化、文字認識分割、デジタル認識、画像分割を提供する。
 
 以下のQQ群に連絡する:
 
